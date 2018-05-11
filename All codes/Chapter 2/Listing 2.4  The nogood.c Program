@@ -11,4 +11,4 @@ int main(void)
     printf("n = %d, n squared = %d, n cubed = %d\n", n, n2, n3)
 	
     return 0;
-)
+)  
