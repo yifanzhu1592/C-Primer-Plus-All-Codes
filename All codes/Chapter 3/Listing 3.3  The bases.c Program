@@ -8,4 +8,4 @@ int main(void)
 	printf("dec = %d; octal = %#o; hex = %#x\n", x, x, x);
 	
 	return 0;
-}
+} 
