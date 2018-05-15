@@ -11,4 +11,4 @@ int main(void)
 	printf("%d minus %d is %d\n", ten );  // forgot 2 arguments
 	
 	return 0;
-}
+} 
