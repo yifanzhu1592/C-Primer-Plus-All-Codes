@@ -15,4 +15,4 @@ int main(void)
 	printf("*%010.2f*\n", RENT);
 	
 	return 0;
-}f
+}
