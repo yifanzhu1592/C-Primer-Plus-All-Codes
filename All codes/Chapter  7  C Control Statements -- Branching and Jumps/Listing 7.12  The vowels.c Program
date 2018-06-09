@@ -14,22 +14,22 @@ int main(void)
 		{
 			case 'a' :
 			case 'A' :  a_ct++;
-						break;
+				    break;
 			case 'e' :
 			case 'E' :  e_ct++;
-						break;
+				    break;
 			case 'i' :
 			case 'I' :  i_ct++;
-						break;
+				    break;
 			case 'o' :
 			case 'O' :  o_ct++;
-						break;
+				    break;
 			case 'u' :
 			case 'U' :  u_ct++;
-						break;
+				    break;
 			default:    break;
-		}                      // end of switch
-	}                          // while loop end
+		}                          // end of switch
+	}                                  // while loop end
 	printf("number of vowels:   A    E    I    O    U\n");
 	printf("                 %4d %4d %4d %4d %4d\n",
 		  a_ct, e_ct, i_ct, o_ct, u_ct);
