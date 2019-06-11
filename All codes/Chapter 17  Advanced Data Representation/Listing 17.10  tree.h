@@ -1,7 +1,7 @@
 /* tree.h -- binary search tree                          */
 /*           no duplicate items are allowed in this tree */
 
-#ifdef _TREE_H_
+#ifndef _TREE_H_
 #define _TREE_H_
 #include <stdbool.h>
 
