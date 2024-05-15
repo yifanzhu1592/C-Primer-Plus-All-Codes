@@ -22,7 +22,7 @@ int main(void)
     while (s_gets(input, TSIZE) != NULL && input[0] != '\0')
     {
         current = (struct film *) malloc(sizeof(struct film));
-        if (head = NULL)        /* first structure       */
+        if (head == NULL)        /* first structure       */
             head = current;
         else                    /* subsequent structures */
             prev->next = current;
