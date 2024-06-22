@@ -2,9 +2,9 @@
 #include <stdio.h>
 int main(void)
 {
-	char ch;
+	int ch;
 	
-	printf("Please enter a character.\n");
+	printf("Please enter a number.\n");
 	scanf("%d", &ch);   /* user inputs character */
 	printf("The code for %d is %c.\n", ch, ch);
 	
